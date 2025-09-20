@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Technology",
+      "year": 1999,
+      "status": "Available"
+    },
+    {
+      "id": 2,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Technology",
+      "year": 2008,
+      "status": "Issued"
+    },
+    {
+      "id": 3,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-help",
+      "year": 2018,
+      "status": "Available"
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Fiction",
+      "year": 1949,
+      "status": "Available"
+    },
+    {
+      "id": 5,
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": 6,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Self-help",
+      "year": 2016,
+      "status": "Available"
+    },
+    {
+      "id": 7,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Science Fiction",
+      "year": 1965,
+      "status": "Available"
+    },
+    {
+      "id": 8,
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "genre": "Business",
+      "year": 2014,
+      "status": "Issued"
+    },
+    {
+      "id": 9,
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Psychology",
+      "year": 2011,
+      "status": "Available"
+    },
+    {
+      "id": 10,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "status": "Available"
+    },
+    {
+      "id": 11,
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "genre": "Business",
+      "year": 2014,
+      "status": "Available"
+    },
+    {
+      "id": 12,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "year": 2011,
+      "status": "Issued"
+    },
+    {
+      "id": 13,
+      "title": "Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "Design",
+      "year": 2013,
+      "status": "Available"
+    }
+  ]
+}
